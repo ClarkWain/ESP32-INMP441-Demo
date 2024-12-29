@@ -44,7 +44,7 @@ ESP32 与 INMP441 的连接如下：
 
 ### 1. 克隆仓库
 ```bash
-git clone [<仓库地址>](https://github.com/ClarkWain/ESP32-INMP441-Demo)
+git clone https://github.com/ClarkWain/ESP32-INMP441-Demo
 cd ESP32-INMP441-Demo
 ```
 
